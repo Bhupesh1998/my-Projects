@@ -1,0 +1,37 @@
+.items-containerss {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 10px;
+  }
+  
+  .cardss {
+    background: rgb(255, 249, 249);
+    font-size: 12px;
+    color: rgb(68, 68, 68);
+    margin: 10px;
+    padding: 30px;
+    transition: 1s ease;
+    cursor: pointer;
+  }
+  
+  .cardss:hover {
+    transform: scale(1.1);
+  }
+  
+  .contentss {
+    display: flex;
+    justify-content: space-between;
+    font-family: sans-serif;
+    margin-top: 20px;
+  }
+  
+  .mealName {
+    font-weight: bold;
+  }
+  
+  .mealImage {
+    border-radius: 5px;
+    height: 200px;
+    width: 300px;
+  }
