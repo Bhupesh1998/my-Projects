@@ -1,0 +1,21 @@
+.buttonToggler {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    padding: 10px 20px;
+    background: transparent;
+    cursor: pointer;
+  }
+  
+  /* section.content .textStyle {
+    font-size: 5rem;
+    font-family: "Bungee Outline", cursive;
+    line-height: 80px;
+  } */
+
+  .textStyle{
+    font-size: 5rem;
+    font-family: "Bungee Outline", cursive;
+    line-height: 80px;
+  }
+  
